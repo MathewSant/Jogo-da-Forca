@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c79a1b1d-8647-4a03-9555-9416d495191e"
+      }
+    },
+    "owner": "mateussantiagosobral",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c79a1b1d-8647-4a03-9555-9416d495191e"
     }
   }
 }
